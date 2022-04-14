@@ -82,5 +82,5 @@ We would want to expand further from here and return more information about a re
 ### Backend Developer
 #### Purdue University, Undergrad. Sophomore majoring in Computer Science
 #### Skills
-        - Java, C, PHP, JavaScript, HTML
+        - Java, C, C++, PHP, JavaScript, HTML
         - MySQL, Git
